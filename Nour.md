@@ -56,6 +56,9 @@ timezone: Pacific/Auckland # 新西兰标准时间 (UTC+12)
 1. 自我介绍
 2. 你认为你会完成本次残酷学习吗？
 
+   元杰 Nour, web3 信仰者，城汇玩核心builder，成都可持续社区串门计划共建者，希望web3能走进生活，走进社区
+   我感觉我可以完成本次残酷学习
+
 ## Notes
 
 <!-- Content_START -->
